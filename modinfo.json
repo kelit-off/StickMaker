@@ -1,0 +1,18 @@
+{
+    "type":"content",
+    "modid":"stickmaker",
+    "name":"StickMaker",
+    "description":"Make stick with all wood produckt",
+    "version":"1.0.0",
+    "networkversion":null,
+    "website":"",
+    "authors":[
+       "Kelit"
+    ],
+    "side":"Universal",
+    "RequiredOnClient":false,
+    "RequiredOnServer":true,
+    "dependencies":{
+       
+    }
+ }
